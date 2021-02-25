@@ -20,7 +20,7 @@
 			ctx.fillText("NO", 210,130);
 			ctx.fillText("PARKING",150,400);
 
-			ctx.moveTo(180,192);
+			ctx.moveTo(145,192);
 			ctx.lineTo(310,315);
 			ctx.stroke();
 		</script>
