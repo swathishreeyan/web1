@@ -18,7 +18,7 @@
 
 			ctx.font="50px verdana";
 			ctx.fillText("yes", 210,130);
-			ctx.fillText("PARKING",150,400);
+			ctx.fillText("PARKING",140,400);
 
 			ctx.moveTo(145,192);
 			ctx.lineTo(310,315);
