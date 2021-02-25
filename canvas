@@ -14,7 +14,7 @@
 			ctx.stroke();
 			ctx.closePath();
 			ctx.font = '100px verdana';
-			ctx.fillText("P",220,290);
+			
 
 			ctx.font="50px verdana";
 			ctx.fillText("NO", 210,130);
